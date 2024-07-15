@@ -64,7 +64,6 @@ footer {
 .countdown-image {
   display: block;
   margin: 20px auto;
-  max-width: 100%;
+  max-width: 90%;
   height: auto;
-  padding: 0 10px;
 }
